@@ -1,0 +1,13 @@
+.nav{
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    border: solid darkgray;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
